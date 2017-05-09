@@ -8,6 +8,8 @@
 [![npm](https://img.shields.io/npm/dm/sequelize.svg?maxAge=2592000)](https://www.npmjs.com/package/sequelize)
 [![License](https://img.shields.io/npm/l/sequelize.svg?maxAge=2592000?style=plastic)](https://github.com/sequelize/sequelize/blob/master/LICENSE)
 
+Modify sqlite dialects for websql compatible to make Sequelize work in react native project
+
 Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server. It features solid transaction support, relations, read replication and more.
 
 [Stable (v4) documentation](http://docs.sequelizejs.com)
