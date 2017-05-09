@@ -1,7 +1,7 @@
 {
   "name": "sequelize-websql",
   "description": "Multi dialect ORM for Node.JS",
-  "version": "4.0.0",
+  "version": "4.0.2",
   "author": "Sascha Depold <sascha@depold.com>",
   "contributors": [
     {
@@ -36,6 +36,7 @@
     "url": "https://github.com/hyphenio/sequelize/issues"
   },
   "dependencies": {
+    "path": "^0.12.7",
     "node-libs-browser": "^2.0.0",
     "bluebird": "^3.4.6",
     "cls-bluebird": "^2.0.1",
